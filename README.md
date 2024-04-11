@@ -1,4 +1,9 @@
+In questa repository e' contenuta la Politica sulla Privacy ed i Termini di Servizio delle mie applicazioni e servizi
 # KappuBot
-In questa repository e' contenuta la Politica sulla Privacy ed i Termini di Servizio del Bot Discord [KappuBot](https://discord.com/application-directory/584063287428251661)
-- [Politica sulla Privacy](./Privacy%20Policy.md)
-- [Termini di servizio](./ToS.md)
+Il Bot Discord [KappuBot](https://discord.com/application-directory/584063287428251661)
+- [Politica sulla Privacy](./KappuBot/Privacy%20Policy.md)
+- [Termini di servizio](./KappuBot/ToS.md)
+
+# MoneyOwed
+Applicazione per tenere traccia dei debitori
+- [Politica sulla Privacy](./MoneyOwed/Privacy%20Policy.md)
